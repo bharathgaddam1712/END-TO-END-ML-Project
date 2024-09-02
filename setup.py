@@ -13,7 +13,7 @@ from typing import List
 Hypen_dot_e ="-e ."
 def get_requirements(file_path : str) -> list[str]:
 
-    ## THIS sfunction return a list(str)
+    ## THIS function return a list(str)
 
     requirements = []
     with open(file_path) as file_obj:
