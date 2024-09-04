@@ -4,4 +4,7 @@ seaborn
 matplotlib
 sckit-learn
 catboost
+dill
+xgboost
+
 ## -e . ## for building the lib
