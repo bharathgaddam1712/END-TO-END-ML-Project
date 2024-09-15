@@ -7,4 +7,3 @@ catboost
 dill
 xgboost
 Flask==3.0.3
--e .
